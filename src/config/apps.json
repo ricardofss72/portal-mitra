@@ -1,0 +1,5 @@
+[
+  {"id":"escala","name":"Controle de Escala","description":"Gestão de escalas e horários dos colaboradores.","url":"","icon":"calendar","order":1,"active":true,"category":"PESSOAS & ROTINA"},
+  {"id":"certificados","name":"Controle de Certificados","description":"Controle de documentos, certificados e vencimentos das unidades.","url":"","icon":"certificate","order":2,"active":true,"category":"DOCUMENTOS & UNIDADES"},
+  {"id":"mtgym","name":"MTGym","description":"Sistema MTGym.","url":"https://maingym.lovable.app","icon":"dumbbell","order":3,"active":true,"category":"GESTÃO & OPERAÇÃO"}
+]
